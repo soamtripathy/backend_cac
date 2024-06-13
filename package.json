@@ -1,0 +1,23 @@
+{
+  "name": "backend_cac",
+  "version": "1.0.0",
+  "description": "a test app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soamtripathy/backend_cac.git"
+  },
+  "author": "soam tripathy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soamtripathy/backend_cac/issues"
+  },
+  "homepage": "https://github.com/soamtripathy/backend_cac#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
